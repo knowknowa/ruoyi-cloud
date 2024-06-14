@@ -55,6 +55,9 @@ public class TokenController
         return R.ok();
     }
 
+    /**
+     * 顾名思义，就是对系统操作用户的进行缓存刷新，防止过期。
+     */
     @PostMapping("refresh")
     public R<?> refresh(HttpServletRequest request)
     {

@@ -13,6 +13,7 @@ import com.ruoyi.system.service.ProductService;
 import io.seata.core.context.RootContext;
 
 @Service
+
 public class ProductServiceImpl implements ProductService
 {
     private static final Logger log = LoggerFactory.getLogger(ProductServiceImpl.class);
