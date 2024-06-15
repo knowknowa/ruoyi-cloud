@@ -25,5 +25,6 @@ public class RuoYiGatewayApplication
                 " |  | \\ `'   /|   `-'  /           \n" +
                 " |  |  \\    /  \\      /           \n" +
                 " ''-'   `'-'    `-..-'              ");
+
     }
 }
