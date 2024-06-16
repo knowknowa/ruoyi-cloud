@@ -78,6 +78,12 @@
             <artifactId>ruoyi-common-swagger</artifactId>
         </dependency>
 
+<!--        分布式事务-->
+        <dependency>
+            <groupId>com.ruoyi</groupId>
+            <artifactId>ruoyi-common-seata</artifactId>
+        </dependency>
+
     </dependencies>
 
     <build>
